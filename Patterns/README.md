@@ -12,7 +12,7 @@
   <br>
   * * *
   <br>
-  The first input should be number of rows and also second input is O then pattern is reverse
+  The first input should be number of rows and also second input is 0 then pattern is reverse
   <br>
   for 3 rows and 1 is
   <br>
